@@ -16,7 +16,7 @@ def addDot
 end
 
 def capital2same
-  #code
+  
 end
 
 def search
